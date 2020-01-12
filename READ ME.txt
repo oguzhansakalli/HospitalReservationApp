@@ -1,0 +1,4 @@
+Username	Password	
+admin		12345	
+recept01	deneme	
+
